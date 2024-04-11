@@ -1,0 +1,24 @@
+합계 80
+4 drwxr-x--- 15 ced  ced  4096  4월  4 14:36 .
+4 drwxr-xr-x  3 root root 4096  3월  7 16:24 ..
+4 -rw-------  1 ced  ced  2000  3월 20 02:51 .bash_history
+4 -rw-r--r--  1 ced  ced   220  3월  7 16:24 .bash_logout
+4 -rw-r--r--  1 ced  ced  3771  3월  7 16:24 .bashrc
+4 drwx------ 10 ced  ced  4096  3월 20 01:26 .cache
+4 drwx------ 12 ced  ced  4096  3월 20 02:51 .config
+4 -rw-------  1 ced  ced    20  3월 20 02:55 .lesshst
+4 drwx------  3 ced  ced  4096  3월 18 23:38 .local
+4 -rw-r--r--  1 ced  ced   807  3월  7 16:24 .profile
+0 -rw-r--r--  1 ced  ced     0  3월 19 00:01 .sudo_as_admin_successful
+0 -rw-rw-r--  1 ced  ced     0  4월  4 15:09 code
+4 drwxrwxr-x  6 ced  ced  4096  3월 18 23:46 linux_unix
+0 -rw-rw-r--  1 ced  ced     0  4월  4 14:33 lux.c
+4 drwx------  3 ced  ced  4096  3월 18 23:38 snap
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 공개
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 다운로드
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 문서
+4 drwxr-xr-x  3 ced  ced  4096  4월  4 15:00 바탕화면
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 비디오
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 사진
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 음악
+4 drwxr-xr-x  2 ced  ced  4096  3월 18 23:38 템플릿
